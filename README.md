@@ -44,6 +44,8 @@ json body:
     "year" : 1880    
 }
 
+---
+
 ### Author
 
 #### Get 
@@ -81,6 +83,8 @@ json body:
     "countryId": "1",
 }
 
+---
+
 ### Genre
 
 #### Get
@@ -114,6 +118,8 @@ json body:
 {
     "name": "detective",
 }
+
+---
 
 ### Country
 
